@@ -85,6 +85,13 @@ You can click the Preview link to take a look at your changes.
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashsharma8433&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
+ 
+ ## Leetcode Stats 📈 
+ 
+ <a href="https://github.com/yashsharma8433/LeetCode-Stats-Card" target="_blank">
+    <img title="yashsharma LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/yashsharma8433?theme=unicorn&font=Paprika&ext=activity" />
+  </a>
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
