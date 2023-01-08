@@ -8,7 +8,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 <br>
 
-<h2 align="center">A Techie from India</h3>
+<h4 align="center">A Techie from Chandigarh University</h3>
 
  
  😄 Pronouns: He/Him <br/>
