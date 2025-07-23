@@ -13,11 +13,11 @@
  
  😄 Pronouns: He/Him <br/>
 
-🎓 I’m currently pursuing my Bachelors in Computer Science and have a strong interest in Coding💙 <br />
+🎓 I’m Graduated in Computer Science and have a strong interest in React,ReactNative,Next js,GenAI | FULL STACK DEV | DSA 💙 <br />
 
-✨  I write code in C/C++, Python, Java, JavaScript etc.. <br/>
+✨ I write code in Python, Java, JavaScript etc.. <br/>
 
-💡 I am currently focusing on Open Source. A beginner contributor at Open Source. <br/>
+💡 I am currently focusing on 3d Websites and App Development. A beginner contributor at Open Source. <br/>
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
@@ -34,9 +34,6 @@
 </a>
 <a href="https://twitter.com/yashsharma711">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://www.instagram.com/yash_sharma_711/">
-  <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 
 <br> <br>
