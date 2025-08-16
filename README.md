@@ -26,7 +26,7 @@
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<a href="https://www.linkedin.com/in/yash-sharma-bab592223/">
+
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:yashsharma843347@gmail.com">
